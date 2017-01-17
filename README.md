@@ -22,11 +22,13 @@ Se han obtenido elevados retornos económicos (más de 300 millones de libras en
 
 ## La realidad de una cambio de modelo: GDS.
 
-# Tecnología
+# Tecnología 
 
-Abordar todas las características de este ámbito en estas líneas no es posible. Centraremos la diferenciación en el paso a los "microservicios" como elemento transformador para salir de las restricciones que imponene los sistemas monolíticos.
+Abordar todas las características de este ámbito en estas líneas no es posible - en el ámbito de esta presentación - . Centraremos la diferenciación en el paso a los "microservicios" como elemento transformador para salir de las restricciones que imponene los sistemas monolíticos.
 
 [microservicios vs monolíticos](https://martinfowler.com/articles/microservices.html#MicroservicesAndSoa)
+
+[Tecnología GDS](https://www.gov.uk/service-manual/technology)
 
 
 # Productividad
@@ -34,6 +36,15 @@ Abordar todas las características de este ámbito en estas líneas no es posibl
 ¿Cómo constuir sistemas complejos con elevada productividad? [Productividad](http://highscalability.com/blog/2015/4/27/how-can-we-build-better-complex-systems-containers-microserv.html)
 
 
+# Conclusiones
+
+(1) Las organizaciones públicas y privadas están afectadas por una necesaria digitalización de sus procesos.
+
+(2) Los modelos vigentes de servicio de desarrollo de software sólo mantienen un modelo caduco y que no responde a las nuevas necesidades del gobierno actual (En España: 39 y 40/2015) . Ídem para otros clientes con "silos" de información. )
+
+(3) El "body Shopping" tiene poca vida por delante. Se requiere una aportación de valor añadido y una proactividad en la presentación de soluciones.
+
+(4) Existen numerosas experiencias internacionales que sirven de apoyo para iniciar esta andadura.
 
 
 
