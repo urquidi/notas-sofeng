@@ -12,47 +12,29 @@ Ya se ha producido un cambio de modelo en otras organizaciones debido a la no so
 
 [Gobierno de Reino Unido](https://www.gov.uk/government/organisations/government-digital-service)
 
+Lo relevante de este cambio se puede observar en sus [Principios de Diseño](https://www.gov.uk/design-principles)
 
+De forma ilustrativa, es recomendable conocer el caso de UK  [Gobierno como plataforma](https://www.gov.uk/government/policies/government-as-a-platform)
 
-## La necesidad de un cambio de modelo: aplicaciones monolíticas.
+## ¿Qué beneficios ha supuesto este cambio?
+
+Se han obtenido elevados retornos económicos (más de 300 millones de libras en 2015) y una agilidad digital en todos los ámbitos que los que se ha aplicado este modelo hasta el momento. Para un conocimiento detallado: [Gobierno como servicio digital](https://www.gov.uk/government/organisations/government-digital-service)
 
 ## La realidad de una cambio de modelo: GDS.
 
+# Tecnología
+
+Abordar todas las características de este ámbito en estas líneas no es posible. Centraremos la diferenciación en el paso a los "microservicios" como elemento transformador para salir de las restricciones que imponene los sistemas monolíticos.
+
+[microservicios vs monolíticos](https://martinfowler.com/articles/microservices.html#MicroservicesAndSoa)
+
+
+# Productividad
+
+¿Cómo constuir sistemas complejos con elevada productividad? [Productividad](http://highscalability.com/blog/2015/4/27/how-can-we-build-better-complex-systems-containers-microserv.html)
 
 
 
-You can use the [editor on GitHub](https://github.com/urquidi/notas-sofeng/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/urquidi/notas-sofeng/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
