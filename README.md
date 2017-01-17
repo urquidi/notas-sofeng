@@ -1,5 +1,25 @@
 ## Notas sobre un cambio de modelo: del ANS de servicios de Software a Ingeniería de Software
 
+## Información de Contexto
+
+Esta presentación es una compilación de conceptos que argumentan un "cambio de modelo" en nuestro cliente para abandonar de forma controlada el modelo actual de desarrollo de software que mantiene y trasvasar el esfuerzo de desarrollo a un nuevo modelo híbrido, ya que no es posible dejar completamente a un lado la historia de lo hecho hasta ahora.
+
+Esta presentación está orientada a una audiencia de negocio pero mantiene todos lo links a la información base para que sirva como una guía de un debate abierto.
+
+## La realidad de una cambio de modelo: GDS.
+
+Ya se ha producido un cambio de modelo en otras organizaciones debido a la no sostenibilidad - técnica y económica - de los servicios y modelos existentes junto a la irrupcción de la "digitalización de la economía".
+
+[Gobierno de Reino Unido](https://www.gov.uk/government/organisations/government-digital-service)
+
+
+
+## La necesidad de un cambio de modelo: aplicaciones monolíticas.
+
+## La realidad de una cambio de modelo: GDS.
+
+
+
 
 You can use the [editor on GitHub](https://github.com/urquidi/notas-sofeng/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
