@@ -42,9 +42,14 @@ Abordar todas las características de este ámbito en estas líneas no es posibl
 
 (2) Los modelos vigentes de servicio de desarrollo de software sólo mantienen un modelo caduco y que no responde a las nuevas necesidades del gobierno actual (En España: 39 y 40/2015) . Ídem para otros clientes con "silos" de información. )
 
-(3) El "body Shopping" tiene poca vida por delante. Se requiere una aportación de valor añadido y una proactividad en la presentación de soluciones.
+(3) El "body Shopping" tiene poca vida por delante - es una carrera hacia cero -. Se requiere una aportación de valor añadido y una proactividad en la presentación de soluciones.
 
-(4) Existen numerosas experiencias internacionales que sirven de apoyo para iniciar esta andadura.
+(4) Existen numerosas experiencias internacionales que sirven de apoyo para iniciar esta andadura. [Uber](https://gotocon.com/dl/goto-chicago-2016/slides/MattRanney_WhatIWishIHadKnownBeforeScalingUberTo1000Services.pdf)
+
+
+
+
+
 
 
 
